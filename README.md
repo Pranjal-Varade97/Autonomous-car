@@ -13,7 +13,6 @@ In this phase, we assmble the car kit for Reapberry pi.We attached the Rear whee
 
 
 Assembling Images:
-
 Image 1:https://drive.google.com/open?id=1mhMvQ9FeCi_4E1fBruGjPjo5amGHcwxN
 Image 2:https://drive.google.com/open?id=1p9wVklmo_QzL3YMTM4tCttUZW50GtHjY
 Image 3:https://drive.google.com/open?id=1ADXYloHMF3l3rZDKmLZYgIr3_aCfa-v0
