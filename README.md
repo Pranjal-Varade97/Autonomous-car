@@ -24,6 +24,21 @@ Image7:https://drive.google.com/open?id=1L4nu5AWjGtdrdSCXzRpP6CG6bOtZAdiq
 Image8:https://drive.google.com/open?id=1-rsxwRmnjlzvglC8tN1Hl4ljKr9ZV180
 
 Car Improvement suggestions:
-
 1.The quality of car can be improved.   
 2.The parts of the car are open.It must have some covering for the important parts.
+Phase2:Setting-Up Raspberry Pi 
+
+In this phase, set up of the raspberry pi is done.For setting up reaspberry pi you will need to follow the following steps.
+Step 1: Download pre-configured raspbian OS image 
+Step 2: Create SD card for Raspberry Pi using downloaded image 
+Step 3: Connect to Raspberry Pi using VNC viewer 
+Step 4: Setup networks if needed 
+Step 5: Update raspbian OS using terminal 
+
+Images:
+Image1:https://drive.google.com/open?id=1wYXycyR0T0ixCCTtGuidkgd53zfFMGiA
+Image2:https://drive.google.com/open?id=1BjOgQwCRKSW7FzCLptxDxLhItvhzUIyc
+
+
+
+
