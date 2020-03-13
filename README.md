@@ -44,7 +44,7 @@ Images:
 Image1:https://drive.google.com/open?id=1wYXycyR0T0ixCCTtGuidkgd53zfFMGiA
 Image2:https://drive.google.com/open?id=1BjOgQwCRKSW7FzCLptxDxLhItvhzUIyc
 
-Improve the connectivity of picar
+
 
 
 
