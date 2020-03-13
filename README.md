@@ -28,8 +28,7 @@ Car Improvement suggestions:
 1.The quality of car can be improved.   
 2.The parts of the car are open.It must have some covering for the important parts.
 
-<b>Phase2:Setting-Up Raspberry Pi</b> 
-
+<b>Phase2:Setting-Up Raspberry Pi</b>             
 In this phase, set up of the raspberry pi is done.For setting up reaspberry pi you will need to follow the following steps.
 
 Step 1: Download pre-configured raspbian OS image             
@@ -44,6 +43,8 @@ Images:
 
 Image1:https://drive.google.com/open?id=1wYXycyR0T0ixCCTtGuidkgd53zfFMGiA
 Image2:https://drive.google.com/open?id=1BjOgQwCRKSW7FzCLptxDxLhItvhzUIyc
+
+Improve the connectivity of picar
 
 
 
