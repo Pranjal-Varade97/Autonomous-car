@@ -41,9 +41,8 @@ To connect raspberry pi using VNC viewer, we directly setup wi-fi using a mice, 
 
 Images:
 
-Image1:https://drive.google.com/open?id=1wYXycyR0T0ixCCTtGuidkgd53zfFMGiA
-Image2:https://drive.google.com/open?id=1BjOgQwCRKSW7FzCLptxDxLhItvhzUIyc
-
+Image1:https://drive.google.com/file/d/1wYXycyR0T0ixCCTtGuidkgd53zfFMGiA/view?usp=sharing      
+Image2:https://drive.google.com/file/d/1BjOgQwCRKSW7FzCLptxDxLhItvhzUIyc/view?usp=sharing
 
 
 
